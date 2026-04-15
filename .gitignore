@@ -2,3 +2,4 @@
 .vscode
 data
 packages_for_lambda
+.env
